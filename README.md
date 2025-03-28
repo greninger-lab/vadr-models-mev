@@ -107,7 +107,7 @@ v-annotate.pl -r --mkey mev --mdir <mev-models-dir-path> <fasta-file-to-annotate
   GenBank.* BMC Bioinformatics 21, 211
   (2020). https://doi.org/10.1186/s12859-020-3537-3
 
-* This page was adapted for HPIV from [Mpox virus annotation](https://github.com/ncbi/vadr/wiki/Mpox-virus-annotation)
+* This page was adapted for MeV from [Mpox virus annotation](https://github.com/ncbi/vadr/wiki/Mpox-virus-annotation)
 
 ---
 
