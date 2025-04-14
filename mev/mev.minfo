@@ -161,7 +161,7 @@ FEATURE JN635410 type:"gene" coords:"7271..9124:+" parent_idx_str:"GBNULL" gene:
 FEATURE JN635410 type:"CDS" coords:"7271..9124:+" parent_idx_str:"GBNULL" gene:"H" product:"hemagglutinin"
 FEATURE JN635410 type:"gene" coords:"9234..15785:+" parent_idx_str:"GBNULL" gene:"L"
 FEATURE JN635410 type:"CDS" coords:"9234..15785:+" parent_idx_str:"GBNULL" gene:"L" product:"large polymerase protein"
-MODEL PP101943 blastdb:"PP101943.vadr.protein.fa" cmfile:"PP101943.vadr.cm" group:"D" subgroup:"8" length:"15928"
+MODEL PP101943 blastdb:"PP101943.vadr.protein.fa" cmfile:"PP101943.vadr.cm" group:"D" subgroup:"8" length:"15928" indfstr_exc:"1..85:+"
 FEATURE PP101943 type:"gene" coords:"142..1719:+" parent_idx_str:"GBNULL" gene:"N"
 FEATURE PP101943 type:"CDS" coords:"142..1719:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE PP101943 type:"gene" coords:"1841..3364:+" parent_idx_str:"GBNULL" gene:"P"
