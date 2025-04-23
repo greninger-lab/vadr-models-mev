@@ -2,7 +2,7 @@
 
 ## [How to annotate MeV sequences with VADR](#howto)
 
-## [MeV VADR model libraries](#mevmodels)
+## [MeV VADR model library](#mevmodels)
 
 ## [Additional VADR documentation](#docs)
 
