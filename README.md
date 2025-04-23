@@ -60,7 +60,7 @@ v-annotate.pl -r --mkey mev --mdir <mev-models-dir-path> <fasta-file-to-annotate
 
 ---
 ## <a name="mevmodels"></a>MeV VADR model library
-* The VADR model libraries for MeV annotation were developed using representative sequences from the 15
+* The VADR model library for MeV annotation was developed using representative sequences from the 15
   genotypes currently available in the complete MeV genomes published in GenBank: AF266288(A), OR290098(B3),
   LC655230(C1), MG912589(C2), AB481088(D3), OP236009(D4), JN635406(D5), DQ227319(D6),
   JN635410(D7), PP101943(D8), KY969476(D9), MN017369(D11), GMG912591(G2), KC164758(G3),
