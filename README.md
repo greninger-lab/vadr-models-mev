@@ -45,7 +45,7 @@ $VADRSCRIPTSDIR/miniscripts/fasta-trim-terminal-ambigs.pl --minlen 50 --maxlen 1
 4. Run the `v-annotate.pl` program on an input trimmed fasta file with
    MeV sequences using the recommended command below.
 ```
-v-annotate.pl -r --mkey mev --mdir <mev-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
+v-annotate.pl -r --indefclass 0.01 --mkey mev --mdir <mev-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
 ```
 
 5. After running the `v-annotate.pl` command in step 4, there will be a number of files
